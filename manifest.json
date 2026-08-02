@@ -1,0 +1,10 @@
+{
+  "name": "Typing-Simulator-Racer",
+  "short_name": "TypeSimulator",
+  "description": "Master touch typing with an elite simulator & racer. Track speeds up to 500 WPM, paste custom text, and race a live pacer in an interactive dark-shade arena.",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ffffff",
+  "theme_color": "#4f46e5",
+}
