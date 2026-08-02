@@ -40,7 +40,8 @@ typing-racer/
 ├── src/
 │   ├── scripts.js     # App logic: pacing engine, input tracking, live WPM calc
 │   └── styles.css     # Styling for the simulator box, controls, and character states
-├── assets/            # Screenshots / demo GIFs
+├── assets/
+    └── demo.gif    # Screenshots / demo GIFs
 ├── README.md
 ├── LICENSE
 └── CONTRIBUTING.md
