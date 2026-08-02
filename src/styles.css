@@ -126,7 +126,7 @@ select:focus, .wpm-number-input:focus, .custom-text-box:focus {
   margin-bottom: 20px;
 }
 .char {
-  color: #d1d5db; 
+  color: #9ca3af; 
   transition: color 0.08s ease, background-color 0.08s ease;
   position: relative;
 }
