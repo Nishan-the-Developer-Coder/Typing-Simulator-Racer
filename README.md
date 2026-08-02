@@ -1,12 +1,12 @@
 # ⌨️ Typing Racer
 
-![GitHub stars](https://img.shields.io/github/stars/nishansinghagomunda-sys/typing-racer?style=flat-square)
-![License](https://img.shields.io/github/license/nishansinghagomunda-sys/typing-racer?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/nishansinghagomunda-sys/Typing-Simulator?style=flat-square)
+![License](https://img.shields.io/github/license/nishansinghagomunda-sys/Typing-Simulator?style=flat-square)
 ![No dependencies](https://img.shields.io/badge/dependencies-none-brightgreen?style=flat-square)
 
 Race your typing speed against a live pace marker — no build step, no dependencies, just open and type.
 
-🔗 **[Try it live](https://nishansinghagomunda-sys.github.io/typing-racer/)**
+🔗 **[Try it live](https://nishansinghagomunda-sys.github.io/Typing-Simulator/)**
 
 <!-- 📸 Add a screenshot or short GIF of Racer mode here, e.g.: -->
 <!-- ![Typing Racer demo](assets/demo.gif) -->
