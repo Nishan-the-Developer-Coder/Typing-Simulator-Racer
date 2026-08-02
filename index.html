@@ -6,7 +6,6 @@
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-
   <div class="simulator-box">
     <div class="controls-wrapper">
       <div class="controls-row">
@@ -17,24 +16,26 @@
             <option value="racer">Interactive Racer</option>
           </select>
         </div>
-        
+
         <div class="control-item">
           <label for="wpm-input">Target WPM:</label>
           <input type="number" id="wpm-input" class="wpm-number-input" min="10" max="500" value="120" step="5">
         </div>
-      </div>
 
+        <div class="control-item">
+          <span class="stat-label">Live WPM:</span>
+          <span id="wpm-live" class="wpm-live-value">0</span>
+        </div>
+      </div>
       <!-- Native Collapsible Practice Text Module -->
       <details class="collapsible-container">
         <summary>⚙️ Custom Practice Text Options</summary>
         <textarea id="custom-text" class="custom-text-box" placeholder="Paste custom words here... (Clearing this box restores default paragraph)"></textarea>
       </details>
     </div>
-
     <div class="text-display" id="text-display"></div>
     <input type="text" class="input-field" id="user-input" placeholder="Switch to Racer mode to start typing..." disabled>
   </div>
-
   <script src="scripts.js"></script>
 </body>
 </html>
