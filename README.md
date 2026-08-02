@@ -6,7 +6,7 @@
 
 Race your typing speed against a live pace marker — no build step, no dependencies, just open and type.
 
-🔗 **[Try it live]([https://typingsimulatorracer.netlify.app/])**
+🔗 **[Try it live](https://typingsimulatorracer.netlify.app/)**
 
 <!-- 📸 Add a screenshot or short GIF of Racer mode here, e.g.: -->
 <!-- ![Typing Racer demo](assets/demo.gif) -->
