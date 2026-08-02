@@ -1,4 +1,4 @@
-# ⌨️ Typing Racer
+# ⌨️ Typing Simulator & Racer
 
 ![GitHub stars](https://img.shields.io/github/stars/nishansinghagomunda-sys/Typing-Simulator?style=flat-square)
 ![License](https://img.shields.io/github/license/nishansinghagomunda-sys/Typing-Simulator?style=flat-square)
