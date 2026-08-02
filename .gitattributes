@@ -1,1 +1,5 @@
-*.js linguist-language=HTML
+# Mark large or bundled JS files so they don't count toward stats
+dist/* linguist-vendored
+build/* linguist-vendored
+vendor/js/* linguist-vendored
+*.min.js linguist-vendored
