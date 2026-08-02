@@ -66,6 +66,26 @@ select:focus, .wpm-number-input:focus, .custom-text-box:focus {
   width: 75px;
   text-align: center;
 }
+/* Live WPM stat (Racer mode) */
+.stat-label {
+  font-weight: 600;
+  font-size: 14px;
+  color: #475569;
+}
+.wpm-live-value {
+  font-weight: bold;
+  font-size: 15px;
+  color: #007bff;
+  font-variant-numeric: tabular-nums;
+  min-width: 2.5ch;
+  display: inline-block;
+  text-align: center;
+  padding: 8px 10px;
+  border: 2px solid #cbd5e1;
+  border-radius: 6px;
+  background: white;
+  box-sizing: border-box;
+}
 /* Collapsible container styling */
 .collapsible-container {
   width: 100%;
