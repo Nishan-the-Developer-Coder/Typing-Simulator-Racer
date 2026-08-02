@@ -1,13 +1,25 @@
 {
-  "name": "typing-simulator-racer",
+  "name": "Typing-Simulator-Racer",
   "version": "1.0.0",
-  "private": true,
+  "private": false,
+  "description": "Master touch typing with an elite simulator & racer. Track speeds up to 500 WPM, paste custom text, and race a live pacer in an interactive dark-shade arena.",
+  "main": "index.html",
   "scripts": {
-    "build": "webpack --mode production",
-    "start": "webpack serve --open --mode development"
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "start": "vite preview --port 3000"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
   },
   "devDependencies": {
-    "webpack": "^5.88.2",
-    "webpack-cli": "^5.1.4"
+    "vite": "^5.4.0",
+    "@vitejs/plugin-react": "^4.3.1",
+    "vite-plugin-pwa": "^0.20.5"
+  },
+  "engines": {
+    "node": ">=18"
   }
 }
